@@ -1,0 +1,7 @@
+mysql-connector-python
+python-dotenv
+SQLAlchemy  # 用於資料庫連線與操作
+pandas      # 用於資料處理
+selenium    # 用於 CPBL API token 獲取
+requests    # 用於 API 請求
+# schedule # 不再需要 schedule
